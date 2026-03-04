@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "君の犬",
+  "base_artist": "madoro",
+  "createdAt": "2026-03-04T00:43:40.206062Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君の犬",
+      "artist": "madoro",
+      "has_synced": false,
+      "path": "select/pl_01_君の犬_madoro.txt"
+    }
+  ]
+}
